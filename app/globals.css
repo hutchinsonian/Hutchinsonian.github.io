@@ -126,7 +126,7 @@ p {
 }
 
 .portrait-wrap {
-  margin: 44px 0 0;
+  margin: 16px 0 0;
 }
 
 .portrait {
@@ -319,7 +319,7 @@ footer a {
   .portrait-wrap {
     grid-row: 1;
     width: 146px;
-    margin-top: 16px;
+    margin-top: 4px;
   }
 
   .details {

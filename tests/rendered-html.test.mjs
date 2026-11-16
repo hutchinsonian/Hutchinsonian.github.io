@@ -12,6 +12,6 @@ test("exports the academic homepage", async () => {
   assert.match(html, />Publications</);
   assert.match(html, />Blogs</);
   assert.doesNotMatch(html, /Researcher · Personal homepage/);
-  assert.match(html, /jiahui-zhang\.png/);
+  assert.match(html, /jiahui-zhang\.webp/);
   assert.doesNotMatch(html, /codex-preview|react-loading-skeleton/);
 });

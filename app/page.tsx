@@ -120,8 +120,8 @@ export default function Home() {
           <figure className="portrait-wrap">
             <img
               className="portrait"
-              src="/jiahui-zhang.png"
-              alt="Jiahui Zhang standing in a grassland landscape"
+              src="/jiahui-zhang.webp"
+              alt="Jiahui Zhang seated in a garden"
             />
           </figure>
         </section>

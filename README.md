@@ -18,7 +18,7 @@ The homepage content lives in `app/page.tsx`. Replace the placeholder biography,
 email, profile links, publications, and notes there. Global visual styles live
 in `app/globals.css`.
 
-Replace `public/jiahui-zhang.png` if you want to use a different portrait.
+Replace `public/jiahui-zhang.webp` if you want to use a different portrait.
 
 ## Deploy to GitHub Pages
 

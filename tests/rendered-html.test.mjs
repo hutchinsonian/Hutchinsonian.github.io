@@ -8,6 +8,8 @@ test("exports the academic homepage", async () => {
     "utf8",
   );
 
+  assert.match(html, /<title>Jiahui Zhang \| Robotics<\/title>/);
+  assert.match(html, /<link rel="canonical" href="https:\/\/hutchinsonian\.github\.io\/"/);
   assert.match(html, /I’m Jiahui Zhang/);
   assert.match(html, />Publications</);
   assert.match(html, />Blogs</);

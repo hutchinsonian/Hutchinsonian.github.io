@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hutchinsonian.github.io/sitemap.xml
